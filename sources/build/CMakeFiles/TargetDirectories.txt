@@ -1,0 +1,4 @@
+/home/otserv/global1094/sources/build/CMakeFiles/all_pch.dir
+/home/otserv/global1094/sources/build/CMakeFiles/clean_cotire.dir
+/home/otserv/global1094/sources/build/CMakeFiles/tfs.dir
+/home/otserv/global1094/sources/build/CMakeFiles/tfs_pch.dir
